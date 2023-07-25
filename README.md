@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kprieto14
 - 👀 I’m interested in learning how to code and create websites.
-- 🌱 I’m currently learning HTML.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on learning other codes as well.
 
 <!---
