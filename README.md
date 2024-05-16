@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kprieto14
 - 👀 I’m interested in learning how to code and create websites.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on learning other codes as well.
+- 🌱 I’m currently learning Python.
 
 <!---
 kprieto14/kprieto14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
